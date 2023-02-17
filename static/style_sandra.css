@@ -13,6 +13,7 @@ a {
     border: 1px;
     padding: 2px 8px;
     border-radius: 16px;
+    background-color: #002848;
     text-decoration: none;
 }
 a:hover {
@@ -26,7 +27,7 @@ h1, h2 {
 }
 h1, h2, h3, h4 {
     color: #ccddff;
-    background-color: #024;
+    background-color: rgb(2, 38, 74);
     border-bottom: 4px solid #39f;
     padding: 8px 16px;
     text-align: center;
@@ -43,6 +44,7 @@ ul, ol {
 .content {
     background-color: #036;
     text-align: center;
+    padding-top: 0;
 }
 
 .kova {
